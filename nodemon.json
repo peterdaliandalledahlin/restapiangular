@@ -1,0 +1,11 @@
+{
+    "env": {
+        "WEB_SERVER_PORT": 3001,
+
+        "MONGODB_SERVER_NAME": "mongodb://localhost",
+        "MONGODB_SERVER_PORT": 27017,
+        "MONGODB_SERVER_DB": "angular",
+
+        "PRIVATE_SECRET_KEY": "jFxvFqCP2v"
+    }
+}
